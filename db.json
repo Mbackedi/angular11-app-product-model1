@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ordinateur",
+      "price": "1200",
+      "quantity": 500,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Imprimente",
+      "price": 1200,
+      "quantity": 200,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Iphone",
+      "price": 8500,
+      "quantity": 6500,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "pp",
+      "price": "290",
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
